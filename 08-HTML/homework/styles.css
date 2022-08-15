@@ -1,18 +1,62 @@
-  
-        h1 {color:blueviolet;}
-        img {width: 480px;}
+
+       h1 
+       
+       {color:blueviolet;
+        display: flex;
+        justify-content: center;
+    }
+        img {
+            width: 480px;
+            }
+
         #thirdDiv {
-            height: 400px;
+            margin-left: 250;
+            display: flex;
+            justify-content: center;
+            background-color: red;
+            height: 500px;
             width: 600px;
-            background-color: blueviolet;
-            padding: 50 px;
+            display: flex;
+            padding: 50px;
             border: 10px solid orange;
+            
             
         }
 
         #spanId {
+            
             font-size: 18px;
             margin: 50px;
+            display: flex;
+            justify-content: center;
+           
+
         }
+
+        #a 
+        {display: flex;
+            justify-content: center;
+             }
+
+        body
+        {
+            background-image: url(./imagen/fondo\ pantalla\ leo.png);}
+            
+        
+        h3{
+        color:blueviolet;
+        display: flex;
+        justify-content: center;
+        }
+
+        h4{
+        color:blueviolet;
+        display: flex;
+        justify-content: center;
+        }
+
+
+
+
 
     
