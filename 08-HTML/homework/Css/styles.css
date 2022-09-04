@@ -1,0 +1,136 @@
+body {
+    background-color:rgb(72, 100, 239);
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 30px;
+    padding: 30px;
+    
+    
+}
+
+h1 {text-align: center; 
+    font-style: oblique;
+    
+}
+
+
+
+h2 {text-align: center;
+    font-size: 2rem;
+    font-style:italic;
+    cursor: pointer;
+    padding: 10px;
+    
+    }
+
+   
+    .container {
+        
+        padding: 10px;
+        display: flex;
+        flex-direction:row;
+        justify-content: space-around;
+        align-items:stretch;
+        flex-wrap:wrap;
+        }
+
+summary{
+    list-style: none;
+}
+
+
+img {
+    margin-left: 20px;
+    width:580px;
+    position: center center;
+ 
+    }
+
+    .Nombre {
+        position:absolute;
+        display: flex;
+        flex-direction:column;
+        justify-content: flex-end;
+        align-items: flex-start;
+        text-align:center;
+        top: 260px;
+        left: 380px;
+        width:200px;
+        font-size: 2.5rem;
+        line-height: 1px;
+
+        }
+    
+
+    .contacto {
+        position:absolute;
+        display: flex;
+        flex-direction:column;
+        justify-content: flex-end;
+        align-items: flex-start;
+        text-align: justify;
+        top: 160px;
+        right: 90px;
+        width:580px;
+        font-size: 18px;
+
+        }
+    
+
+ .parrafo1 {
+            margin:auto;
+            display: flex;
+            flex-direction:column;
+            justify-content: space-around;
+            text-align: center;
+            font-size: 18px;
+           
+            }
+
+ .parrafo2 {
+            margin:auto;
+            display: flex;
+             flex-direction:column;
+             justify-content: space-around;
+             text-align: center;
+             font-size: 18px;
+               
+             }
+
+.parrafo3 {
+            margin:auto;
+            display: flex;
+            flex-direction:column;
+            justify-content: space-around;
+            text-align: center;
+            font-size: 18px;
+                   
+                    }
+
+.parrafo4 {
+            margin:auto;
+            display: flex;
+            flex-direction:column;
+            justify-content: space-around;
+            text-align: center;
+            font-size: 18px;
+                       
+                        }
+                        
+.parrafo5 {
+            margin:auto;
+            display: flex;
+            flex-direction:column;
+            justify-content: space-around;
+            text-align: center;
+            font-size: 18px;
+                           
+                            }
+                            
+    
+           
+        
+    
+
+
+
